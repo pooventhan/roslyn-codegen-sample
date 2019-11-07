@@ -9,7 +9,7 @@ namespace CodeGenerator.Test
         public void SimpleGenerationWorks()
         {
             var foo = new Foo();
-            var fooA = new FooA();
+            var fooA = new FooD();
         }
     }
 }

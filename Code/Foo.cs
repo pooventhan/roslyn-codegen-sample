@@ -3,7 +3,7 @@
     using CodeGenerator;
     using System;
 
-    [DuplicateWithSuffix("A")]
+    [DuplicateWithSuffix("D")]
     public class Foo
     {
     }
