@@ -10,8 +10,6 @@ namespace CodeGenerator.Test
         {
             var foo = new Foo();
             var fooA = new FooA();
-
-
         }
     }
 }
