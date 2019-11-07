@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CodeGenerator/v16/Server/sqlite3
+/Code/bin/Debug/netstandard2.0
+/Code/obj
+/CodeGenerator/obj
+/CodeGenerator/bin/Debug/netstandard2.0
+/CodeGenerator.Test/obj
+/CodeGenerator.Test/bin/Debug/netcoreapp3.0
+/CodeGenerator/.vs/CodeGenerator
+*.suo
